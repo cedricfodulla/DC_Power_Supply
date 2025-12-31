@@ -1,5 +1,5 @@
 ## Author
-- [@cedricfodulla](https://github.com/cedricfodulla)
+- [Cedric Fodulla](https://github.com/cedricfodulla)
 
 # DC Power Supply Project
 
