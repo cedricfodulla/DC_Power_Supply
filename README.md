@@ -1,3 +1,6 @@
+## Author
+- [@cedricfodulla](https://github.com/cedricfodulla)
+
 # DC Power Supply Project
 
 A project demonstrating how to make a voltage-regulated DC Power Supply unit.
