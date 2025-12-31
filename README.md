@@ -1,2 +1,20 @@
-# DC_Power_Supply
-DC Power Supply project with complete materials, procedure, troubleshooting, and insights
+# DC Power Supply Project
+
+A project demonstrating how to make a voltage-regulated DC Power Supply unit.
+
+## Materials
+
+- Voltage Regulator IC (7915)
+- Diode (_)
+- Resistor (_Ohms)
+- Capacitor (_Farads)
+
+## Procedure
+
+    1. Prepare
+    2. Add
+    3. Complete
+
+## Screenshots
+
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
