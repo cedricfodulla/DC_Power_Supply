@@ -5,7 +5,7 @@
 
 A project demonstrating how to make a voltage-regulated DC Power Supply unit.
 
-## Materials
+## Equipment and Materials
 
 - Voltage Regulator IC (7915)
 - Diode (_)
