@@ -1,4 +1,4 @@
-## Author
+# Author
 - [Cedric Fodulla](https://github.com/cedricfodulla)
 
 # DC Power Supply Project
